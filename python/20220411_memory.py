@@ -25,10 +25,6 @@ def print_stack_pointer():
     print(f"{id(learning_3)}")
     print(learning_1 is learning_2)
     print(learning_1 is learning_3)
-# -----------------------------------------------------------------
-# import sys
-# print (sys.argv)
-# -----------------------------------------------------------------
 
 if __name__ == '__main__':
     fstring()
